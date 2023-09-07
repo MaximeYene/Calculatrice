@@ -1,0 +1,17 @@
+.title{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    margin: 3% 0;
+}
+
+table{
+    width: 40%;
+    margin: 0 30%;
+}
+input{
+    width: 100%;
+}
+button{
+    width: 100%;
+}
